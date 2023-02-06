@@ -1,7 +1,7 @@
 {
     "name": "Skidmoreuk Organization Workflow",
     "description": "Skidmoreuk Organization CI starter workflow.",
-    "iconName": "device-desktop",
+    "iconName": "octicon device-desktop",
     "categories": [
         "Go"
     ],
